@@ -230,10 +230,9 @@ h1{
     margin-bottom: 40px;
 }
 .button1{
-    margin:10px;
     margin-top: 30px;
     height: 40px;
-    width:180px;
+    width: 120px;
     background-color:#560764;
     color:white;
     font-weight: 600;
@@ -247,10 +246,9 @@ h1{
     padding-right: 30px;
 }
 .button2{
-    margin:10px;
     margin-top: 30px;
     height: 40px;
-    width: 180px;
+    width: 120px;
     background-color:#913175;
     color:white;
     font-weight: 600;

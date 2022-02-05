@@ -104,6 +104,11 @@ img{
         display: flex;
     }
 }
+@media (max-width:480px){
+    .brand-title{
+        font-size: 3rem;
+    }
+}
 /*MAIN SECTION*/
 #main{
     background-image: url(bg_img_edited.jpg);

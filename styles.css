@@ -519,7 +519,7 @@ h1.section-title{
         width: min-content;
     }
     .navbar{
-        width: fit-content;
+        width: 100%;
     }
 }
 

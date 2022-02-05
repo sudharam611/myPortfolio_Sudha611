@@ -511,4 +511,12 @@ h1.section-title{
         padding-left: 20px;
     }
 }
+@media only screen and (min-width:480px){
+    .button1{
+        width: min-content;
+    }
+    .button1{
+        width: min-content;
+    }
+}
 

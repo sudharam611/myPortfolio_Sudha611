@@ -518,5 +518,8 @@ h1.section-title{
     .button1{
         width: min-content;
     }
+    .navbar{
+        width: fit-content;
+    }
 }
 
